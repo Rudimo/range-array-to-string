@@ -1,0 +1,22 @@
+{
+  "name": "range-array-to-string",
+  "description": "Range array to string library for NodeJS.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Dmitry Kshevsky <rudimo@yandex.ru>",
+  "scripts": {
+    "test": "mocha ./test/index.js"
+  },
+  "devDependencies": {
+    "mocha": "4.0.1",
+    "should": "13.1.2"
+  },
+  "engine": "node >= 6.10.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudimo/range-array-to-string"
+  },
+  "bugs": {
+    "url": "https://github.com/Rudimo/range-array-to-string/issues"
+  }
+}
